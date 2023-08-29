@@ -4,3 +4,4 @@ These are projects for Linear Algebra(MATH311) at Winona State University. The p
 Projects
 
 1. Solving Systems Using Python and Colab
+     Link: Math_311_solve_systems_using_computation_and_rref.ipynb
